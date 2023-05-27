@@ -1,19 +1,37 @@
 # E-Commerce_Website
-To Test it
+To test the application, follow these steps:
 
-	Download the Xampp Application
-	Load the folder in the htdocs folder and then you are ready to go
+1. Download the XAMPP application, which will provide the necessary server environment.
+2. Load the project folder into the "htdocs" folder of XAMPP. This folder will serve as the web root directory.
+3. Start XAMPP and make sure the server is running.
+4. Access the application through your web browser by entering the appropriate URL (e.g.http://localhost/AcmeProject/index.php).
 
-1. Login Page Features:- Signup as Vendor and Customer, Prevent Unauthorized Access and Illegal login attempt.
-2. Authguard: It is all time shown at the top of the page, where it shows the UserID and Username, Where we can logout, by destroying the session.
-3. Admin Page: All the UserID's of Vendors and Customers can be seen here, where you can delete the ID by clicking on the 'DELETE' Button.
-4. Vendor Page: It has features to upload all the information of the products which could be seen by the customer, view all uploaded products and View Order, where mark the order as 'Delivered', see the review of the customers, and Delivery Status
-5. Customer Page: Can see all the products of all the vendors, add them to cart, edit the cart and then place order. Thereafter, see delivery status, Cancel Orders, Add their review. 
+The application consists of the following pages and features:
 
+Login Page:
+- Users can sign up as either vendors or customers.
+- Unauthorized access and illegal login attempts are prevented.
 
-#This is an MVP (Minimum Viable Product) 
+Authguard:
+- Displayed at the top of each page, it shows the user's ID and username.
+- Users can log out, which will destroy the session and log them out.
 
-Hope you like my efforts. Add any of your changes if needed.
+Admin Page:
+- Shows all the user IDs of vendors and customers.
+- Admins can delete user IDs by clicking the "DELETE" button.
+
+Vendor Page:
+- Vendors can upload product information that will be visible to customers.
+- Vendors can view all uploaded products, view orders, mark orders as "delivered," view customer reviews, and check delivery status.
+
+Customer Page:
+- Customers can view products from all vendors.
+- Customers can add products to their cart, edit the cart, and place orders.
+- Customers can view the delivery status, cancel orders, and leave reviews.
+
+This application is an MVP (Minimum Viable Product), representing the essential features of the system.
+
+Please review the provided information and suggest any changes or additions you would like to make.
 
 
 
