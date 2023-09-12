@@ -1,6 +1,3 @@
-# Preview:
-[E-Commerce-Website.pdf](https://github.com/MinavKaria/E-Commerce_Website/files/12445515/E-Commerce-Website.pdf)
-
 # E-Commerce_Website
 
 To test the application, follow these steps:
